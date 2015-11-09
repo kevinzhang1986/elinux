@@ -50,64 +50,50 @@
 </tbody>
 </table>
 
-## Now shipping to customers
+## 运送给消费者
 
-See the [Buying Guide](http://eLinux.org/RPi_Buying_Guide "RPi Buying Guide") on how to
-order one, or visit the [Raspberry Pi Foundation Home
+请看 [购买指南](http://eLinux.org/RPi_Buying_Guide "RPi Buying Guide") 如何预定，或者浏览 [Raspberry Pi Foundation Home
 Page](http://www.raspberrypi.org)
 
-## About
+## 关于
 
 [![](http://eLinux.org/images/thumb/9/96/RpiFront.jpg/300px-RpiFront.jpg)](http://eLinux.org/File:RpiFront.jpg)
 
 [](http://eLinux.org/File:RpiFront.jpg "Enlarge")
 
-The Raspberry Pi production board (model B Rev 2.0)
+Raspberry Pi 产品开发板 (model B Rev 2.0)
 
-The [Raspberry Pi](http://www.hycshop.com/raspberry-pi-c-2_17/) (short:
-RPi or RasPi) is an ultra-low-cost (\$20-\$35) credit-card sized Linux
-computer which was conceived with the primary goal of teaching computer
-programming to children. It was developed by the [Raspberry Pi
-Foundation](http://www.raspberrypi.org), which is a UK registered
-charity (Registration Number
+[Raspberry Pi](http://www.hycshop.com/raspberry-pi-c-2_17/) 
+（简称：RPI 或 raspi）是一种超低成本（20美元- 35美元）信用卡大小的 Linux 计算机，主要用来向儿童教学计算机编程。它由 [Raspberry Pi
+基金会](http://www.raspberrypi.org)开发， 一个英国慈善机构注册的基金会 (注册码
 [1129409](http://www.charity-commission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1129409&SubsidiaryNumber=0)).
-The foundation exists to promote the study of computer science and
-related topics, especially at school level, and to put the fun back into
-learning computing. The device is expected to have many other
-applications both in the developed and the developing world ([Read
-more](http://eLinux.org/RPi_Philosophy "RPi Philosophy")).
+基金会存在的目的是促进计算机科学和相关课题的研究，特别是在学校的层面上，把乐趣重新投入到学习中。预计该设备在发达和发展中国家有更多应用。 ([阅读更多](http://eLinux.org/RPi_Philosophy "RPi Philosophy")).
 
-Raspberry Pi is manufactured and sold in partnership with the worldwide
-industrial distributors [Premier Farnell/Element
-14](http://www.farnell.com/) and [RS Components](http://rswww.com/), and
-the Chinese distributor [Egoman Technology
-Corp](http://www.egoman.com.cn/)<sup>[[1]](#cite_note-1)</sup>.
+Raspberry Pi 和全球工业分销商 [Premier Farnell/Element
+14](http://www.farnell.com/) 和 [RS Components](http://rswww.com/), 和
+中国经销商 [Egoman Technology
+Corp](http://www.egoman.com.cn/)<sup>[[1]](#cite_note-1)</sup>建立伙伴关系，用来生产和销售.
 
--   You can get the latest news from the [Foundation Home
-    Page](http://www.raspberrypi.org), the [Twitter
-    Feed](http://twitter.com/intent/user?screen_name=Raspberry_Pi) or in
-    the [forums](http://www.raspberrypi.org/forums).
--   For Raspberry Pi frequently asked questions see the [FAQ
-    section](http://eLinux.org/RPi_FAQ "RPi FAQ") or the [Raspberry Pi Foundation's
-    FAQ](http://www.raspberrypi.org/?page_id=8) page.
--   Both manufacturing partners provide community areas for more
-    technically focused discussions, articles, FAQs and related
-    information:
+-   你可以从 [Foundation Home
+    Page](http://www.raspberrypi.org), [Twitter
+    Feed](http://twitter.com/intent/user?screen_name=Raspberry_Pi) 或者在
+     [forums](http://www.raspberrypi.org/forums)获取最新信息。
+-   Raspberry Pi 的高频问题请看 [FAQ
+    section](http://eLinux.org/RPi_FAQ "RPi FAQ") 或者 [Raspberry Pi Foundation's
+    FAQ](http://www.raspberrypi.org/?page_id=8) 页面。
+-   制造商伙伴提供社区，用来技术讨论，发表文章，FAQs和相关信息：
 
 -   Premier Farnell: [Element 14 Raspberry Pi
     Group](http://www.element14.com/community/groups/raspberry-pi?view=discussions)
 -   RS-Components: [DesignSpark - Raspberry
     Pi](http://www.designspark.com/theme/raspberrypi)
 
--   Products are RoHS, CE, FCC, CTick, CSA and WEEE
-    compliant<sup>[[2]](#cite_note-2)</sup>. In common with all
-    Electronic and Electrical products the Raspberry Pi should not be
-    disposed of in household waste. Please contact the distributor from
+-   产品符合ROHS，CE，FCC，ctick，CSA和WEEE标准<sup>[[2]](#cite_note-2)</sup>。和所有的电子和电气设备一样， Raspberry Pi 不应该当作家庭废弃物。 Please contact the distributor from
     whom you purchased your Raspberry Pi device for details regarding
-    WEEE in your country.
--   Price: 20USD Model A+, 35USD for Model B+, excluding taxes, postage
-    and packaging. For information about availability and shipping see
-    the [Buying Guide](http://eLinux.org/RPi_Buying_Guide "RPi Buying Guide").
+    WEEE in your country请和你购买  Raspberry Pi 设备的经销商联系，获取你们国家相关WEEE细节。
+-   价格: 20美元 Model A+, 35美元 Model B+, 不包括、邮费和包装费
+    库存信息和船运信息请参考
+     [购买指南](http://eLinux.org/RPi_Buying_Guide "RPi Buying Guide").
 
 
 
