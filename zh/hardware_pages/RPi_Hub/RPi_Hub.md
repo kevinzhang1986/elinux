@@ -1,45 +1,43 @@
-> From: [eLinux.org](http://eLinux.org/RPi_Hub "http://eLinux.org/RPi_Hub")
+> 原文: [eLinux.org](http://eLinux.org/RPi_Hub "http://eLinux.org/RPi_Hub")<br/>
+> 翻译: [@kevinzhang1986](https://github.com/kevinzhang1986)
 
 
 # RPi Hub
 
 
 
-**Notice:** The Raspberry Pi Wiki pages on this site is collaborative
-work - the Raspberry Pi Foundation is **not** responsible for content on
-these pages.
+**注意:** 网站上的Raspberry Pi维基页面是协同工作的。 Raspberry Pi 基金会并不负责这些网页上的内容。
 
-## Contents
+## 目录
 
--   [1 Now shipping to customers](#now-shipping-to-customers)
--   [2 About](#about)
-    -   [2.1 History](#history)
--   [3 Getting Started](#getting-started)
-    -   [3.1 Buying Guide](#buying-guide)
-    -   [3.2 Basic Setup](#basic-setup)
-    -   [3.3 Beginners Guide](#beginners-guide)
--   [4 Resources](#resources)
-    -   [4.1 Hardware & Peripherals](#hardware-peripherals)
-    -   [4.2 Software & OS
-        Distributions](#software-os-distributions)
-    -   [4.3 Documentation](#documentation)
-    -   [4.4 Datasheets](#datasheets)
-    -   [4.5 Troubleshooting](#troubleshooting)
-    -   [4.6 Bugs](#bugs)
-    -   [4.7 RPi Model B 3D CAD files](#rpi-model-b-3d-cad-files)
-    -   [4.8 RPi Model B+ 3D CAD files](#rpi-model-b-3d-cad-files)
-    -   [4.9 Education Material](#education-material)
-    -   [4.10 Books](#books)
-    -   [4.11 Education Material](#education-material-2)
--   [5 Community](#community)
-    -   [5.1 Projects, Guides &
-        Tutorials](#projects-guides-tutorials)
-    -   [5.2 Schools, Universities, Clubs &
-        Groups](#schools-universities-clubs-groups)
-    -   [5.3 Supporting Communities](#supporting-communities)
--   [6 About the RPi Wiki](#about-the-rpi-wiki)
-    -   [6.1 Translations](#translations)
--   [7 References](#references)
+-   [1 运送给消费者](#now-shipping-to-customers)
+-   [2 关于](#about)
+    -   [2.1 历史](#history)
+-   [3 开始](#getting-started)
+    -   [3.1 购买指南](#buying-guide)
+    -   [3.2 基本设置](#basic-setup)
+    -   [3.3 初学者指南](#beginners-guide)
+-   [4 资源](#resources)
+    -   [4.1 硬件 & 外设](#hardware-peripherals)
+    -   [4.2 软件 & 操作系统分布](#software-os-distributions)
+    -   [4.3 文档](#documentation)
+    -   [4.4 手册](#datasheets)
+    -   [4.5 问题答疑](#troubleshooting)
+    -   [4.6 漏洞](#bugs)
+    -   [4.7 RPi 模型 B 3D CAD 文件](#rpi-model-b-3d-cad-files)
+    -   [4.8 RPi 模型 B+ 3D CAD 文件](#rpi-model-b-3d-cad-files)
+    -   [4.9 教学资源](#education-material)
+    -   [4.10 书籍](#books)
+    -   [4.11 教学资源](#education-material-2)
+-   [5 社区](#community)
+    -   [5.1 项目, 指南 &
+        教程](#projects-guides-tutorials)
+    -   [5.2 高中, 大学, 俱乐部 &
+        团体](#schools-universities-clubs-groups)
+    -   [5.3 支撑社区](#supporting-communities)
+-   [6 关于 RPi 维基](#about-the-rpi-wiki)
+    -   [6.1 翻译](#translations)
+-   [7 参考](#references)
 
 <table>
 <col width="50%" />
