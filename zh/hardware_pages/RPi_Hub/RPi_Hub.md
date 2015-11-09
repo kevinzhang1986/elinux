@@ -91,7 +91,7 @@ Corp](http://www.egoman.com.cn/)<sup>[[1]](#cite_note-1)</sup>建立伙伴关系
 -   产品符合ROHS，CE，FCC，ctick，CSA和WEEE标准<sup>[[2]](#cite_note-2)</sup>。和所有的电子和电气设备一样， Raspberry Pi 不应该当作家庭废弃物。 Please contact the distributor from
     whom you purchased your Raspberry Pi device for details regarding
     WEEE in your country请和你购买  Raspberry Pi 设备的经销商联系，获取你们国家相关WEEE细节。
--   价格: 20美元 Model A+, 35美元 Model B+, 不包括、邮费和包装费
+-   价格: 20美元 Model A+, 35美元 Model B+, 不包括税、邮费和包装费
     库存信息和船运信息请参考
      [购买指南](http://eLinux.org/RPi_Buying_Guide "RPi Buying Guide").
 
