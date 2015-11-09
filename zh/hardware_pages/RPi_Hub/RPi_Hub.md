@@ -97,7 +97,7 @@ Corp](http://www.egoman.com.cn/)<sup>[[1]](#cite_note-1)</sup>建立伙伴关系
 
 
 
-### History
+### 历史
 
 If you are interested in why the Raspberry Pi was created, and why it is
 what it is, check the [General
@@ -109,7 +109,7 @@ how the Raspberry Pi has evolved, and the [manufacturing
 differences](http://eLinux.org/RaspberryPi_Boards "RaspberryPi Boards") page that may
 help if you are having problems with your board.
 
-## Getting Started
+## 开始
 
 <table>
 <col width="33%" />
@@ -179,7 +179,7 @@ help if you are having problems with your board.
 </tbody>
 </table>
 
-## Resources
+## 资源
 
 <table>
 <col width="33%" />
@@ -255,19 +255,19 @@ help if you are having problems with your board.
 </tbody>
 </table>
 
-### Books
+### 书籍
 
 -   Heitz, Ryan. Hello! Raspberry Pi. Manning Publications (2015). pp.
     225. [ISBN 9781617292453](http://eLinux.org/Special:BookSources/9781617292453)
 
-### Education Material
+### 教育材料
 
 -   The Raspberry Pi Education Manual(PDF)
     [http://downloads.raspberrypi.org/Raspberry\_Pi\_Education\_Manual.pdf](http://downloads.raspberrypi.org/Raspberry_Pi_Education_Manual.pdf)
 -   RAspberry Pi GPIO Pin Worksheet for free use (Multi Format)
     [http://raspberry.tips/raspberrypi-tutorials/raspberry-pi-modell-b-plus-gpio-pins-worksheet/](http://raspberry.tips/raspberrypi-tutorials/raspberry-pi-modell-b-plus-gpio-pins-worksheet/)
 
-## Community
+## 社区
 
 <table>
 <col width="33%" />
@@ -313,7 +313,7 @@ help if you are having problems with your board.
 </tbody>
 </table>
 
-## About the RPi Wiki
+## 关于 RPi 维基
 
 **Do not be afraid to add your bit, content is vital for the wiki to
 function.**
@@ -324,7 +324,7 @@ function.**
 
 A 3D rendering of the Raspberry Pi logo
 
-### Translations
+### 翻译
 
 The wiki is being translated into several languages, some of which can
 be seen on the hub banner above. Current languages include:
@@ -341,7 +341,7 @@ be seen on the hub banner above. Current languages include:
 Any help translating would be greatly appreciated. Thank you to those
 who have already contributed!
 
-# References
+# 参考
 
 1.  [↑](#cite_ref-1)
     [http://www.raspberrypi.org/archives/3195](http://www.raspberrypi.org/archives/3195)
